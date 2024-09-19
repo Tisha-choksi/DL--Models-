@@ -15,12 +15,10 @@ Welcome to the DL-Models repository! This repository contains a collection of de
 11. **Basic RNN**
 12. **Gated Recurrent Unit (GRU)**
 13. **Long Short-Term Memory (LSTM)**
-14. **Vanilla RNN**
 15. **Word2Vec**
 16. **FastText**
 17. **Skip-Gram Model**
 18. **Continuous Bag of Words (CBOW)**
-19. **Recurrent Neural Network (RNN)**
 20. **Fully Connected Neural Network (FCNN)**
 
 ### Intermediate Models
